@@ -1,0 +1,1 @@
+smptest file line1
