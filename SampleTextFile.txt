@@ -1,1 +1,2 @@
 Sample text file
+Sample text file - 2nd statement
